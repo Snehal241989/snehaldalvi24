@@ -13,7 +13,7 @@ This project performs Exploratory Data Analysis (EDA) on a Superstore sales data
 - Pandas
 - Matplotlib
 - Seaborn
-- Google Colab notebook
+- Google Colab link:
 https://github.com/Snehal241989/RetailEDA24/blob/main/Superstoretask.ipynb
 
 2]  Habuild Data Analysis
@@ -26,8 +26,55 @@ Derive actionable insights to enhance user experience and program effectiveness
 # Tools & Technologies:
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 Excel
-Google Colab
+Google Colab Link:
 http://github.com/Snehal241989/Habuild-data-analysis
 # Outcome:
 The analysis provides clear visualizations and insights into how user consistency affects challenge completion. These findings can help product teams improve user retention strategies and challenge design.
+
+3] Student Performance Analysis
+This project analyzes student academic performance data to identify patterns in exam scores and demographic attributes such as gender, lunch type, parental education level, and test preparation.
+
+###   Tools
+
+Make sure the following libraries are installed:
+
+pandas
+matplotlib
+seaborn
+Jupyter notebook link :
+https://github.com/Snehal241989/Student-performance-analysis
+
+###  Features
+
+1]Reads and processes a CSV dataset of student scores
+2]Creates a `Pass/Fail` label based on average scores.Average score is calculated by taking the average of Maths score,reading score and writing score
+3]Visualizes score distributions and categorical feature relationships
+### Dataset
+
+The dataset file is named: `student_details.csv`
+
+It includes features like:
+- Math score
+- Reading score
+- Writing score
+- Gender
+- Race/Ethnicity
+- Parental level of education
+- Lunch type
+- Test preparation course
+
+### How to Run
+
+1. Upload the `student_details.csv` file to your environment.
+2. Open the notebook or script.
+3. Run all cells from top to bottom.
+
+### Visualizations
+
+- Histograms of score distributions
+- Pass vs Fail counts
+- Categorical feature comparisons
+
+
+
 
