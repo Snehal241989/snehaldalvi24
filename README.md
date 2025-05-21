@@ -75,6 +75,24 @@ It includes features like:
 - Pass vs Fail counts
 - Categorical feature comparisons
 
+4] Music Store MySQL Analysis
+This project showcases SQL queries performed on a sample music store database using MySQL. The analysis includes customer behavior, sales trends, and music performance metrics.
+
+ Key Tasks:
+Top 5 Customers by total purchase amount
+
+Most Popular Genre based on track sales
+
+Manager-Subordinate Relationships among employees
+
+Top-Selling Album for each artist
+
+Monthly Sales Trends for the year 2023
+
+The queries demonstrate use of aggregations, joins, grouping, and date functions to extract meaningful insights from the database.
+Link: https://github.com/Snehal241989/Music-database
+
+
 
 
 
