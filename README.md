@@ -92,6 +92,13 @@ Monthly Sales Trends for the year 2023
 The queries demonstrate use of aggregations, joins, grouping, and date functions to extract meaningful insights from the database.
 Link: https://github.com/Snehal241989/Music-database
 
+5] Airbnb Listing Dashboard Summary (Tableau):
+
+This dashboard provides an overview of Airbnb listings in a selected region. It displays key insights including the number of listings by neighborhood, average price, room type distribution, and review scores. Users can interact with filters to explore different neighborhoods or listing types. The bar and map visuals highlight pricing trends and geographic distribution, helping identify areas with higher concentrations of listings or higher average prices. This dashboard is useful for travelers seeking accommodations or hosts analyzing market competitiveness.
+
+Link:-https://public.tableau.com/views/Airbnb_listing_17442794629110/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link please write a short summary on this dashboard
+
+
 
 
 
