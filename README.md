@@ -98,6 +98,14 @@ This dashboard provides an overview of Airbnb listings in a selected region. It 
 
 Link:-https://public.tableau.com/views/Airbnb_listing_17442794629110/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
+6]Evaluating the Effectiveness of Different Categories of Content in Driving Positive Sentiment
+
+Social Buzz is a fast-growing tech unicorn that need to adapt quickly to their global scaling process efficiently. 
+The Data Team will be focusing in an analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
+Social Buzz has over 100.000 posts per day, that can be assumed to have 36.500.000 posts per year. I have  analyzed the sample of this dataset from them.
+ 
+Link:
+https://github.com/Snehal241989/Sentiment-Analysis
 
 
 
